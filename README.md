@@ -7,9 +7,9 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 I’m currently learning **Golang** and **Java Spring** 
-- 🔭 I’m currently working on [JongkwanL/JongkwanL](https://github.com/JongkwanL/JongkwanL)
+- 🌱 I’m currently learning **Golang** and **Java Spring**
 <!-- 
+- 🔭 I’m currently working on [JongkwanL/JongkwanL](https://github.com/JongkwanL/JongkwanL)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
